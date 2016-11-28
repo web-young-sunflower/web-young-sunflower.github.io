@@ -31,6 +31,9 @@
 	font-family: 'robotolight';
 	font-size: 16px;
 }
+#head .row{
+    margin-right: 0;
+}
 .social-icons{
 	float: right;
 	height: auto;
